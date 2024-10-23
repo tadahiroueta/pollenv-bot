@@ -1,0 +1,16 @@
+{
+  "name": "pollenv-bot",
+  "version": "1.0.0",
+  "description": "Automatically respond to a Poll Everywhere activity over a period of time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tadahiroueta",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^130.0.1",
+    "fa": "^1.0.1",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
