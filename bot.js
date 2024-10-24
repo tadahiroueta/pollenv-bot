@@ -27,6 +27,7 @@ async function answer() {
 
         await driver.sleep(50000); // 50 seconds 
     }
+    await driver.close();
 };
 
 module.exports = answer;
